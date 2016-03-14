@@ -20,6 +20,9 @@ int main(){
 	//Test KthIndexFromEnd 
 
 	//TestNumbertoStr
+	float number = -34.435;
+	char str[20];
+	number_to_str(number, str, 2);
 
 	//removeSpaces
 
